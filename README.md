@@ -8,7 +8,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Drone+%26+Path+Planning+Enthusiast;AI+%26+Full-Stack+Developer;Python+%7C+TypeScript+%7C+PHP;Always+Learning+Something+New..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Drone+%26+Path+Planning+Enthusiast;AI+%26+Full-Stack+Developer;Server+Admin+%26+DevOps+Enthusiast;Always+Learning+Something+New..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,11 +20,12 @@
 
 ### 👨‍💻 About Me
 
-Saya adalah seorang pengembang yang berfokus pada sistem otonom dan aplikasi web modern. Saat ini saya sedang mendalami **Algoritma Path Planning untuk Drone**, **AI/ChatBot**, dan **Cloud Deployment (AWS/Vercel)**. Saya percaya bahwa kode yang bersih adalah seni yang bisa dieksekusi.
+Saya adalah seorang pengembang yang berfokus pada sistem otonom dan aplikasi web modern. Selain menulis kode, saya juga senang mengelola infrastruktur server dan melakukan *deployment* aplikasi secara *end-to-end*.
 
 - 🔭 Sedang mengerjakan: **Advanced Drone Path Planning** & **AI-ChatBot**
+- ☁️ Berpengalaman dalam mengelola **Ubuntu Server**, konfigurasi **aaPanel**, serta mengamankan koneksi via **Tunneling** (Cloudflare/Ngrok).
 - 🌱 Sedang mempelajari: **Embedded Systems** & **AWS**
-- 💬 Tanya saya tentang: **Python, TypeScript, atau Simulasi Drone**
+- 💬 Tanya saya tentang: **Python, TypeScript, Server Deployment, atau Simulasi Drone**
 
 ---
 
@@ -44,8 +45,21 @@ Saya adalah seorang pengembang yang berfokus pada sistem otonom dan aplikasi web
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+---
+
+### ⚙️ DevOps & Infrastructure
+
+Saya terbiasa melakukan *deployment* aplikasi dari tahap *development* hingga *production* menggunakan VPS pribadi.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/aaPanel-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
 ---
 
