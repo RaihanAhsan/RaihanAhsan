@@ -12,84 +12,58 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RaihanAhsan&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently diving deep into **Autonomous Drone Systems** and **Path Planning Algorithms**.
-- 🤖 Passionate about experimenting with **AI/ChatBots** and building modern web applications.
-- 🌱 Currently expanding my knowledge in **Cloud Deployment (AWS/Vercel)** and **Embedded Systems**.
-- 💬 Ask me about **Python, TypeScript, or Drone Simulations**.
-- ⚡ Fun fact: I believe clean code is executable art.
+Saya adalah seorang pengembang yang berfokus pada sistem otonom dan aplikasi web modern. Saat ini saya sedang mendalami **Algoritma Path Planning untuk Drone**, **AI/ChatBot**, dan **Cloud Deployment (AWS/Vercel)**. Saya percaya bahwa kode yang bersih adalah seni yang bisa dieksekusi.
+
+- 🔭 Sedang mengerjakan: **Advanced Drone Path Planning** & **AI-ChatBot**
+- 🌱 Sedang mempelajari: **Embedded Systems** & **AWS**
+- 💬 Tanya saya tentang: **Python, TypeScript, atau Simulasi Drone**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=py,ts,php,js,html,css" alt="Languages" />
-  <br/>
-  <!-- Framework & Library -->
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,fastapi,laravel" alt="Frameworks" />
-  <br/>
-  <!-- Tools & Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,linux,vscode" alt="Tools" />
-</p>
+**Languages & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+**Tools & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 ---
 
 ### 🚁 Featured Projects
 
-| Project | Description | Tech Stack |
+| 🚀 Project | 📝 Description | 💻 Tech Stack |
 | :--- | :--- | :--- |
-| **[drone_planning](https://github.com/RaihanAhsan/drone_planning)** ⭐ | Autonomous drone path planning algorithms. | `Python` |
+| **[drone_planning](https://github.com/RaihanAhsan/drone_planning)** | Autonomous drone path planning algorithms. | `Python` |
 | **[AI-ChatBot](https://github.com/RaihanAhsan/AI-ChatBot)** | Intelligent AI-powered chatbot with a modern UI. | `TypeScript` `Next.js` |
 | **[ECG_System](https://github.com/RaihanAhsan/ECG_System)** | System for ECG signal processing and analysis. | `Python` |
 | **[DoorLock_with_VoiceRec](https://github.com/RaihanAhsan/DoorLock_with_VoiceRec)** | Voice recognition-based smart security door lock. | `PHP` `IoT` |
 | **[porto_nxt](https://github.com/RaihanAhsan/porto_nxt)** | Personal portfolio website built with Next.js. | `TypeScript` `Next.js` |
 
-> 💡 **Tip:** Remember to pin your 6 best repositories on your profile page (click "Customize your pins") so these top projects are immediately visible.
+> 💡 **Tip:** *Pin* 6 repositori terbaik Anda di halaman profil (klik "Customize your pins") agar proyek-proyek unggulan di atas langsung terlihat oleh pengunjung.
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RaihanAhsan&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Raihan's Trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/RaihanAhsan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaihanAhsan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAhsan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<!-- ===== ACTIVITY GRAPH (Alternatif 3D yang tidak butuh Actions) ===== -->
-### 📈 Contribution Activity Graph
-
-<p align="center">
-  <a href="https://github.com/RaihanAhsan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanAhsan&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaihanAhsan&label=Profile%20views&color=00BFFF&style=flat" alt="Visitor Counter" />
-</p>
-
----
-
-### 🤝 Connect with Me
+### 📫 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
@@ -102,6 +76,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+<br/>
 
 <p align="center">
   <i>"Talk is cheap. Show me the code." – Linus Torvalds</i>
