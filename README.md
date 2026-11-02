@@ -20,12 +20,12 @@
 
 ### 👨‍💻 About Me
 
-Saya adalah seorang pengembang yang berfokus pada sistem otonom dan aplikasi web modern. Selain menulis kode, saya juga senang mengelola infrastruktur server dan melakukan *deployment* aplikasi secara *end-to-end*.
+I am a developer focused on autonomous systems and modern web applications. Beyond writing code, I am deeply passionate about managing server infrastructure and handling end-to-end application deployments.
 
-- 🔭 Sedang mengerjakan: **Advanced Drone Path Planning** & **AI-ChatBot**
-- ☁️ Berpengalaman dalam mengelola **Ubuntu Server**, konfigurasi **aaPanel**, serta mengamankan koneksi via **Tunneling** (Cloudflare/Ngrok).
-- 🌱 Sedang mempelajari: **Embedded Systems** & **AWS**
-- 💬 Tanya saya tentang: **Python, TypeScript, Server Deployment, atau Simulasi Drone**
+- 🔭 Currently working on: **Advanced Drone Path Planning** & **AI-ChatBot**
+- ☁️ Experienced in managing **Ubuntu Servers**, configuring **aaPanel**, and securing connections via **Tunneling** (Cloudflare/Ngrok).
+- 🌱 Currently learning: **Embedded Systems** & **AWS**
+- 💬 Ask me about: **Python, TypeScript, Server Deployment, or Drone Simulations**
 
 ---
 
@@ -51,7 +51,7 @@ Saya adalah seorang pengembang yang berfokus pada sistem otonom dan aplikasi web
 
 ### ⚙️ DevOps & Infrastructure
 
-Saya terbiasa melakukan *deployment* aplikasi dari tahap *development* hingga *production* menggunakan VPS pribadi.
+I am accustomed to deploying applications from development to production using personal VPS environments.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -73,7 +73,7 @@ Saya terbiasa melakukan *deployment* aplikasi dari tahap *development* hingga *p
 | **[DoorLock_with_VoiceRec](https://github.com/RaihanAhsan/DoorLock_with_VoiceRec)** | Voice recognition-based smart security door lock. | `PHP` `IoT` |
 | **[porto_nxt](https://github.com/RaihanAhsan/porto_nxt)** | Personal portfolio website built with Next.js. | `TypeScript` `Next.js` |
 
-> 💡 **Tip:** *Pin* 6 repositori terbaik Anda di halaman profil (klik "Customize your pins") agar proyek-proyek unggulan di atas langsung terlihat oleh pengunjung.
+> 💡 **Tip:** *Pin* your 6 best repositories on your profile page (click "Customize your pins") so these top projects are immediately visible to visitors.
 
 ---
 
