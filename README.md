@@ -56,9 +56,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RaihanAhsan&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Raihan's Trophies" />
-  </a>
+  <img src="./profile/trophy.svg" alt="Raihan's Trophies" />
 </p>
 
 ---
@@ -66,26 +64,20 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/RaihanAhsan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaihanAhsan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAhsan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/RaihanAhsan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanAhsan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+---
 
-<!-- ===== 3D ISOMETRIC CONTRIBUTION GRAPH ===== -->
 ### 🌌 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaihanAhsan/RaihanAhsan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://cdn.jsdelivr.net/gh/RaihanAhsan/RaihanAhsan@main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
-<!-- ===== VISITOR COUNTER ===== -->
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RaihanAhsan&label=Profile%20views&color=00BFFF&style=flat" alt="Visitor Counter" />
 </p>
