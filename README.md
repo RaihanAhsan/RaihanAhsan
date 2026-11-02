@@ -1,4 +1,4 @@
-<!-- ===== HEADER ANIMASI ===== -->
+<!-- ===== HEADER ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/RaihanAhsan">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Hello%20World!%20I'm%20Raihan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
@@ -16,18 +16,18 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Saat ini saya sedang mendalami **Autonomous Drone Systems** dan **Path Planning Algorithms**.
-- 🤖 Suka bereksperimen dengan **AI/ChatBot** dan membangun aplikasi web modern.
-- 🌱 Sedang memperdalam **Cloud Deployment (AWS/Vercel)** dan **Embedded Systems**.
-- 💬 Tanya saya tentang **Python, TypeScript, atau simulasi drone**.
-- ⚡ Fun fact: Saya percaya kode yang rapi adalah seni yang bisa dijalankan.
+- 🔭 Currently diving deep into **Autonomous Drone Systems** and **Path Planning Algorithms**.
+- 🤖 Passionate about experimenting with **AI/ChatBots** and building modern web applications.
+- 🌱 Currently expanding my knowledge in **Cloud Deployment (AWS/Vercel)** and **Embedded Systems**.
+- 💬 Ask me about **Python, TypeScript, or Drone Simulations**.
+- ⚡ Fun fact: I believe clean code is executable art.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Bahasa & Framework -->
+  <!-- Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=py,ts,php,js,html,css" alt="Languages" />
   <br/>
   <!-- Framework & Library -->
@@ -43,13 +43,21 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[drone_planning](https://github.com/RaihanAhsan/drone_planning)** ⭐ | Algoritma perencanaan jalur drone otonom. | `Python` |
-| **[AI-ChatBot](https://github.com/RaihanAhsan/AI-ChatBot)** | Chatbot cerdas berbasis AI dengan antarmuka modern. | `TypeScript` `Next.js` |
-| **[Advanced_PathPlanning](https://github.com/RaihanAhsan/Advanced_PathPlanning)** | Eksplorasi algoritma path planning lanjutan. | `Python` |
-| **[DoorLock_with_VoiceRec](https://github.com/RaihanAhsan/DoorLock_with_VoiceRec)** | Sistem keamanan pintu berbasis pengenalan suara. | `PHP` `IoT` |
-| **[porto_nxt](https://github.com/RaihanAhsan/porto_nxt)** | Website portofolio pribadi yang dibangun dengan Next.js. | `TypeScript` `Next.js` |
+| **[Advanced_PathPlanning](https://github.com/RaihanAhsan/Advanced_PathPlanning)** ⭐ | Advanced exploration of path planning algorithms. | `Python` |
+| **[Drone_Simulation](https://github.com/RaihanAhsan/Drone_Simulation)** | Simulation environment for autonomous drone testing. | `Python` |
+| **[Prototype_Drone](https://github.com/RaihanAhsan/Prototype_Drone)** | Hardware and software prototype for drone systems. | `Python` |
+| **[DoorLock_with_VoiceRec](https://github.com/RaihanAhsan/DoorLock_with_VoiceRec)** | Voice recognition-based smart security door lock. | `PHP` `IoT` |
+| **[AI-ChatBot](https://github.com/RaihanAhsan/AI-ChatBot)** | Intelligent AI-powered chatbot with a modern UI. | `TypeScript` `Next.js` |
 
-> 💡 **Tips:** Jangan lupa *pin* 6 repositori terbaikmu di halaman profil (klik "Customize your pins") agar proyek unggulan di atas langsung terlihat oleh pengunjung.
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RaihanAhsan&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Raihan's Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -68,9 +76,11 @@
   </a>
 </p>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
+<!-- ===== 3D ISOMETRIC CONTRIBUTION GRAPH (NEW ANIMATION) ===== -->
+### 🌌 3D Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaihanAhsan/RaihanAhsan/output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RaihanAhsan/RaihanAhsan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 <!-- ===== VISITOR COUNTER ===== -->
