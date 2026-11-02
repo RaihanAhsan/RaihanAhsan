@@ -43,11 +43,13 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Advanced_PathPlanning](https://github.com/RaihanAhsan/Advanced_PathPlanning)** ⭐ | Advanced exploration of path planning algorithms. | `Python` |
-| **[Drone_Simulation](https://github.com/RaihanAhsan/Drone_Simulation)** | Simulation environment for autonomous drone testing. | `Python` |
-| **[Prototype_Drone](https://github.com/RaihanAhsan/Prototype_Drone)** | Hardware and software prototype for drone systems. | `Python` |
-| **[DoorLock_with_VoiceRec](https://github.com/RaihanAhsan/DoorLock_with_VoiceRec)** | Voice recognition-based smart security door lock. | `PHP` `IoT` |
+| **[drone_planning](https://github.com/RaihanAhsan/drone_planning)** ⭐ | Autonomous drone path planning algorithms. | `Python` |
 | **[AI-ChatBot](https://github.com/RaihanAhsan/AI-ChatBot)** | Intelligent AI-powered chatbot with a modern UI. | `TypeScript` `Next.js` |
+| **[ECG_System](https://github.com/RaihanAhsan/ECG_System)** | System for ECG signal processing and analysis. | `Python` |
+| **[DoorLock_with_VoiceRec](https://github.com/RaihanAhsan/DoorLock_with_VoiceRec)** | Voice recognition-based smart security door lock. | `PHP` `IoT` |
+| **[porto_nxt](https://github.com/RaihanAhsan/porto_nxt)** | Personal portfolio website built with Next.js. | `TypeScript` `Next.js` |
+
+> 💡 **Tip:** Remember to pin your 6 best repositories on your profile page (click "Customize your pins") so these top projects are immediately visible.
 
 ---
 
@@ -76,7 +78,7 @@
   </a>
 </p>
 
-<!-- ===== 3D ISOMETRIC CONTRIBUTION GRAPH (NEW ANIMATION) ===== -->
+<!-- ===== 3D ISOMETRIC CONTRIBUTION GRAPH ===== -->
 ### 🌌 3D Contribution Graph
 
 <p align="center">
