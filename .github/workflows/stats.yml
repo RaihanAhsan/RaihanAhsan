@@ -11,34 +11,35 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           token: ${{ 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 }} # <-- Gunakan PAT di sini
 
-      # 1. Generate GitHub Stats Card
+      # 1. Generate GitHub Stats Card (Gunakan PAT_TOKEN)
       - name: Generate Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }} # <-- Token ini tetap untuk pembuatan kartu
+          token: ${{ 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 }} # <-- Ganti ke PAT_TOKEN
 
-      # 2. Generate Top Languages Card
+      # 2. Generate Top Languages Card (Gunakan PAT_TOKEN)
       - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ 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 }} # <-- Ganti ke PAT_TOKEN
 
-      # 3. Generate Trophy Card
+      # 3. Generate Trophy Card (Gunakan Action Resmi yang Lebih Stabil)
       - name: Generate Trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: ryo-ma/github-profile-trophy@master # <-- Action resmi
         with:
           username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ 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 }} # <-- Gunakan PAT_TOKEN
           file: profile/trophy.svg
           theme: tokyonight
           max-rows: 1
