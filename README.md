@@ -56,7 +56,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="./profile/trophy.svg" alt="Raihan's Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RaihanAhsan&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Raihan's Trophies" />
+  </a>
 </p>
 
 ---
@@ -64,16 +66,19 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
+  <a href="https://github.com/RaihanAhsan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaihanAhsan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAhsan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
----
-
-### 🌌 3D Contribution Graph
+<!-- ===== ACTIVITY GRAPH (Alternatif 3D yang tidak butuh Actions) ===== -->
+### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/RaihanAhsan/RaihanAhsan@main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <a href="https://github.com/RaihanAhsan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanAhsan&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
 </p>
 
 ---
